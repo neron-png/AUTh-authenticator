@@ -1,5 +1,8 @@
 
 Python script to generate universis access tokens without oauth2
+Αυθεντικοποιητής για το universis του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης, ΑΠΘ
+
+*Είναι πολύ ενοχλητικό το ΑΠΘ στα αγγλικά να λέγεται AUTh που επίσης σημαίνει αυθεντικοποιητής*
 
 ## Example:
 
